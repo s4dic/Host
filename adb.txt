@@ -1,5 +1,6 @@
 127.0.0.1 localhost
 ::1 localhost
+127.0.0.1 telemetry.mozilla.org
 127.0.0.1 10148.engine.mobileapptracking.com
 127.0.0.1 10870841.collect.igodigital.com
 127.0.0.1 1170.api.swrve.com
