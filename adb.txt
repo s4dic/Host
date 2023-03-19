@@ -7632,7 +7632,6 @@
 127.0.0.1 vendimob.pl
 127.0.0.1 vendorlist.consensu.org
 127.0.0.1 venetia.iad.appboy.com
-127.0.0.1 verification-va.byteoversea.com
 127.0.0.1 verification.jiguang.cn
 127.0.0.1 verify.mob.com
 127.0.0.1 verizon.adhaven.com
