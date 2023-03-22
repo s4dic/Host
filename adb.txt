@@ -4798,7 +4798,6 @@
 127.0.0.1 mobvista.com
 127.0.0.1 moengagewebsdk.imgix.net
 127.0.0.1 mologiq.net
-127.0.0.1 mon-va.byteoversea.com
 127.0.0.1 mon.isnssdk.com
 127.0.0.1 monetize-api.coronalabs.com
 127.0.0.1 monetizemore-d.openx.net
@@ -6632,7 +6631,6 @@
 127.0.0.1 staging-us-east-tlx.3lift.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 stands4-d.openx.net
-127.0.0.1 starling-va.byteoversea.com
 127.0.0.1 startapp.com
 127.0.0.1 startappservice.com
 127.0.0.1 startup.mobile.yandex.net
@@ -7618,7 +7616,6 @@
 127.0.0.1 vcardsdkservice.vivo.com.cn
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 vcdn.media.innity.net
-127.0.0.1 vcs-va.byteoversea.com
 127.0.0.1 vdapp.nend.net
 127.0.0.1 vdna.exelator.com
 127.0.0.1 vdoai-d.openx.net
