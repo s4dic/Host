@@ -31189,7 +31189,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mc.s7.exacttarget.com^
 ||mcs.eyereturn.com^
 ||mcs.snssdk.com^
-||mcs-va-*.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mcteu.cn^
 ||mctotpcjwxali.com^
@@ -40394,7 +40393,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||report.mediahub.vn^
 ||report.meituan.com^
 ||report.personali.com^
-||report-ps.meettech.net^
 ||report.*.qq.com^
 ||report.qq.com^
 ||report.salmonads.com^
@@ -41319,7 +41317,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rtkio-d.openx.net^
 ||rtkyvd.xyz^
 ||rtl1.net^
-||rtlog*.tiktokv.com^
 ||rtmark.net^
 ||rtnews.pro^
 ||rtnjcplpuxdq.com^
@@ -54381,7 +54378,6 @@ vkcdnservice.appspot.com^
 ||xlnuj.com^
 ||xlog.byteoversea.com^
 ||xlog.snssdk.com^
-||xlog*-*.tiktokv.com^
 ||xlog.tiktokv.com^
 ||xlog-va.musical.ly^
 ||xlog-va.tiktokv.com^
