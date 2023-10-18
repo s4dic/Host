@@ -4006,14 +4006,6 @@
 ||adservetx.media.net^
 ||adserve.work^
 ||adservex.media.net^
-||adservice.google.com^
-||adservice.google.com.tr^
-||adservice.google.com.ua^
-||adservice.google.com.vn^
-||adservice.google.de^
-||adservice.google.fr^
-||adservice.google.ie^
-||adservice.google.nl^
 ||adservicemedia.dk^
 ||adservice.tohsoft.com^
 ||adservi.com^
