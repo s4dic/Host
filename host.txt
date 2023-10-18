@@ -22326,7 +22326,6 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||googleadapis.l.google.com^|
 ||googleads4.g.doubleclick.net^
 ||googleadservices.com^
-||googleads.g.doubleclick.net^
 ||googleads.github.io^
 ||googleanalytcs.com^
 ||google-analyticals.com^
