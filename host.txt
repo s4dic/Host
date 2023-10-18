@@ -16,7 +16,6 @@
 ! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
 ! The rules with hints are at the end of file.
 
-! Good: ||doubleclick.net^$third-party
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
@@ -776,7 +775,6 @@
 ||321.jintang114.org^
 ||3221dkf7m2.com^
 ||32258228.com^
-||3243857.fls.doubleclick.net^
 ||325d3d949f.com^
 ||325szdv.cn^
 ||32851897.com^
@@ -1205,7 +1203,6 @@
 ||53gem.com^
 ||53.localytics.com^
 ||543993d.com^
-@@||5471782.fls.doubleclick.net^|
 ||54askjdklm.xyz^
 ||54kefu.net^
 ||550b3ikb9j.com^
@@ -1727,7 +1724,6 @@
 ||82448dceaaa13034.com^
 ||8245.digital^
 ||825145.com^
-||8272590.fls.doubleclick.net^
 ||827fa7c868b4b.com^
 ||82dbb7897b.com^
 ||82eb361582.com^
@@ -2517,7 +2513,6 @@
 ||accordinglyvenisonelse.com^
 ||accoul.com^
 ||accountryft.xyz^
-||accounts.doubleclick.net^
 ||accounts.pkr.com^
 ||accuradio.deliveryengine.adswizz.com^
 ||accuradio-d.openx.net^
@@ -2754,7 +2749,6 @@
 ||ad.angel-live.com^
 ||adaog.com^
 ||adaos-ads.net^
-||ad-apac.doubleclick.net^
 ||adapd.com^
 ||adapex.io^
 ||adapf.com^
@@ -3001,7 +2995,6 @@
 ||ad.donanimhaber.com^
 ||addonsmash.com^
 ||addoor.net^
-||ad.doubleclick.net^
 ||address9.com^
 ||addresseepaper.com^
 ||addresseetransportationsyndrome.com^
@@ -3039,7 +3032,6 @@
 ||ad.eloan.co.jp^
 ||adelphic-partners.tremorhub.com^
 ||ademails.com^
-||ad-emea.doubleclick.net^
 ||ad.emlakeki.com^
 ||adenc.co.kr^
 ||ad.endpo.in^
@@ -3872,7 +3864,6 @@
 ||adsbc.pp.ua^
 ||ads.betweendigital.com^
 ||ads-bidder-api.twitter.com^
-||ads-bid.l.doubleclick.net^
 ||adsbingo.com^
 ||ads.bkitsoftware.com^
 ||adsblockkpush.com^
@@ -4876,7 +4867,6 @@
 ||adx-dre.op.hicloud.com^
 ||adx.edutimes.com.vn^
 ||adx-exchange.toast.com^
-||adx.g.doubleclick.net^
 ||adxgeeks.com^
 ||adx.golfnews.vn^
 ||adx.hasmobi.net^
@@ -9918,7 +9908,6 @@
 ||bid-engine.com^
 ||bidfilter.com^
 ||bidfnt-asia.adsmoloco.com^
-||bid.g.doubleclick.net^
 ||bidgear.com^
 ||bidgear-syndication.com^
 ||bid.glass^
@@ -13436,7 +13425,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cmfads.com^
 ||c.mfstatic.cz^
 ||cm.gammaplatform.com^
-||cm.g.doubleclick.net^
 ||cmgfeeds.cmgdigital.com^
 ||c.mgid.com^
 ||cmgjqqu.cn^
@@ -15613,7 +15601,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dart.clearchannel.com^
 ||dartg665moetyor.com^
 ||dartimyl.com^
-||dart.l.doubleclick.net^
 ||dartrealization.com^
 ||darts-ads.telkom.co.id^
 ||darvorn.com^
@@ -17061,7 +17048,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.ne.jp^
-||doubleclick.net^
 ||doubleclick-net.com^
 ||doubleclick.sbs^
 ||doubledeepclick.com^
@@ -19906,7 +19892,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ffbrfjnhhf.com^
 ||ffcbynqble.xyz^
 ||ffconf.ecbsn.com^
-||ff.doubleclick.net^
 ||ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net^
 ||ff.guidaye.com^
 ||ffhre.com^
@@ -20250,7 +20235,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||flowsearch.info^
 ||flowwiththetide.xyz^
 ||flrdra.com^
-||fls.doubleclick.net^
 ||flsfzr.cn^
 ||fltbqfjsbrj.com^
 ! FluBot / Cabassous malware
@@ -21012,7 +20996,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fzxrjx.com^
 ||fzygcof.cn^
 ||g081fme.cn^
-||g0.doubleclick.net^
 ||g11686975765.co^
 ||g11885060100.co^
 ||g1188506010.co^
@@ -21025,7 +21008,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g1782759016.co^
 ||g1980843350.co^
 ||g1c5.com^
-||g1.doubleclick.net^
 ||g1f5.com^
 ||g1kb9u.xyz^
 ||g1max.mediav.com^
@@ -21041,12 +21023,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||g2575096355.co^
 ||g2921554487.com^
 ||g2c.cloud-elements.com^
-||g2.doubleclick.net^
 ||g2insights-cdn.azureedge.net^
 ||g2.ousns.net^
 ||g33ktr4ck.com^
 ||g3ao2q.cn^
-||g3.doubleclick.net^
 ||g.3gl.net^
 ||g3j2wzmon8b.com^
 ||g3.letv.cn^
@@ -22293,7 +22273,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goo-access-analytics.appspot.com^
 ||gooblesdd.com^
 ||go.oclasrv.com^
-! Good: ||ad.doubleclick.net^
 ! Good: ||adeventtracker.spotify.com^
 ||goodads.de^
 ||goodadvert.
@@ -22304,7 +22283,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||goodcode.me^
 ||goodcounter.org^
 ||gooddaywith-captcha.top^
-! Good: ||doubleclick.net^$third-party
 ||gooderamour.com^
 ||goodfungame.com^
 ||goodgamesmanship.com^
@@ -22318,13 +22296,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ! Good: ||smi24.kz^$third-party
 ||goodsp.admicro.vn^
 ||goodtag.it^
-! Good: ||tracker.doubleclick.net^
 ||good-traff.ru^
 ||good-traf.ru^
 ||goodwaythetradedeskvideo910663478306.s.moatpixel.com^
 ||goofypismica.com^
 @@||googleadapis.l.google.com^|
-||googleads4.g.doubleclick.net^
 ||googleadservices.com^
 ||googleads.github.io^
 ||googleanalytcs.com^
@@ -31234,7 +31210,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||md-nx.com^
 ||mdotlabs.com^
 ||mdotm.com^
-||m.doubleclick.net^
 ||mdpszsqzs.com^
 ||mdqgwa.cn^
 ||mds.nipa.co.th^
@@ -35915,7 +35890,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pagead-googlehosted.l.google.com^
-@@||pagead.l.doubleclick.net^|
 ||pageantinsanitydistressed.com^
 ||page-events-ustats.udemy.com^
 ||pagefair.com^
@@ -36118,7 +36092,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||partiesrelyfoliage.com^
 ||partion-ricism.xyz^
 ||partner.accesstrade.vn^
-||partnerad.l.doubleclick.net^
 ||partnerad.l.google.com^
 ||partner-ads.com^
 ||partner.ads.placeiq.com^
@@ -38525,7 +38498,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pub1.co^
 ||pub2srv.com^
 ||pubacca5mc.com^
-||pubads.g.doubleclick.net^
 ||pubaka5.com^
 ||pubasks.com^
 ||pubcloud.pub^
@@ -41597,7 +41569,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s0.2mdn.net^
 ||s0-2mdn-net.l.google.com^
 ||s.0cf.io^
-||s0.doubleclick.net^
 ||s10.exacttarget.com^
 ||s10.histats.com^
 ||s11.exacttarget.com^
@@ -42492,7 +42463,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||securepaths.com^
 ||secure.perk0mean.com^
 ||secure-proxy.imrworldwide.com^
-||securepubads.g.doubleclick.net^
 ||secure.quantserve.com^
 ||secure-sdk.imrworldwide.com^
 ||secure-sg.imrworldwide.com^
@@ -45470,7 +45440,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.frankfurterneuepresse.de^
 ||stats.ft.com^
 ||statsf.tubemogul.com^
-||stats.g.doubleclick.net^
 ||stats.geegain.com^
 ||stats.gifs.com^
 ||stats.gioneemobile.net^
@@ -45499,7 +45468,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||stats.jpush.cn^
 ||stats.kaltura.com^
 ||stats.kumulos.com^
-||stats.l.doubleclick.net^
 ||stats.lotlinx.com^
 ||stats.lptracker.ru^
 ||statsmachine.com^
@@ -46262,7 +46230,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||survey2you.org^
 ||survey4you.co^
 ||surveyedbelieves.com^
-||survey.g.doubleclick.net^
 ||survey.interquest.com^
 ||survey-poll.com^
 ||surveyscout.com^
