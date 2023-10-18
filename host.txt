@@ -45223,7 +45223,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static.criteo.net^
 ||static.da1.vip.prod.criteo.net^
 ||static.dable.io^
-||static.doubleclick.net^
 ||static.dynamicyield.com^
 ||static.ecorebates.com^
 ||static.eu.criteo.net^
