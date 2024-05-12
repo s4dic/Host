@@ -1,3 +1,5 @@
+illumin.com^
+sync.illumin.com^
 0-000.store^
 000123456789.online^
 000123456789.site^
