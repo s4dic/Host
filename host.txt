@@ -22,6 +22,8 @@
 !
 !
 ||0-000.store^
+||sync.illumin.com^
+||illumin.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
