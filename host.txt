@@ -21,6 +21,13 @@
 !
 !
 !
+! Microsoft Telemetry
+||eu-office.events.data.microsoft.com^
+||eu-mobile.events.data.microsoft.com^
+||self.events.data.microsoft.com^
+||mobile.events.data.microsoft.com^
+||events.data.microsoft.com^
+! All
 ||0-000.store^
 ||sync.illumin.com^
 ||illumin.com^
