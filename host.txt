@@ -45,6 +45,8 @@
 ||00aaa2d81c1d174.com^
 ||00bloggers.ru^
 ||00xvppy.cn^
+||unityads.unity3d.com^
+||applovin.com^
 ://*.012345b.xyz^
 ||016665.com^
 ||016881.com^
