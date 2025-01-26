@@ -5935,7 +5935,6 @@
 ||amazingcl.ru^
 ||amazingcounters.com^
 ||amazingdomain.sbs^
-||amazon-adsystem.com^
 ||amazonclix.com^
 ||amazon-cornerstone.com^
 ||amazy.ru^
@@ -11497,7 +11496,6 @@
 ||camarondo.com^
 ||camatalowes.com^
 ||c.amazinglybrilliant.com.au^
-||c.amazon-adsystem.com^
 ||cambrianter.club^
 ||camel.headfarming.com^
 ||cameracaseira.com^
